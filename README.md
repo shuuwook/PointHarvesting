@@ -35,7 +35,7 @@ ___
                            
            
 ## [Setting]
-This project was tested on **Windows 10** / **Ubuntu 16.04** / **RTX2080ti** / **CUDA-10.0**
+This project was tested on **Ubuntu 16.04** / **RTX2080ti** / **CUDA-10.0**
 Using _conda install_ command is recommended to setting.
 
 ### Packages
