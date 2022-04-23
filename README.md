@@ -28,6 +28,8 @@ ___
 ## [Evaluation]
 - We used evaluation metrics for 3D point cloud generation which is proposed in [PointFlow](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_PointFlow_3D_Point_Cloud_Generation_With_Continuous_Normalizing_Flows_ICCV_2019_paper.pdf).
 
+- We used preprocessed ShapeNet.Core.v2 dataset presented in PointFlow.
+
 - We used train split in ShapeNet.Core.v2 dataset for training our model.
 
 - We used valid split in ShapeNet.Core.v2 dataset for evaluation. (It is according to the setting of the PointFlow.)
