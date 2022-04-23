@@ -1,10 +1,10 @@
 # **PointHarvesting**
 
->This repository **PointHarvesting** is for _**Highly Dense Point Cloud Generation via Progressive Random Sampling Method**_ paper
+>This repository **PointHarvesting** is for _**Wasserstein Distributional Harvesting for Highly Dense 3D Point Clouds**_ paper
 ___
 
 ## [ Paper ]
-[_Highly Dense Point Cloud Generation via Progressive Random Sampling Method_](~~~~)  
+[_Wasserstein Distributional Harvesting for Highly Dense 3D Point Clouds_](~~~~)  
 (Dong Wook Shu, Sung Woo Park, Junseok Kwon)
 ___
 
