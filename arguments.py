@@ -38,7 +38,7 @@ class Arguments:
         self._parser.add_argument('--lr', type=float, default=1e-4, help='Float value for learning rate.')
         self._parser.add_argument('--ckpt_path', type=str, default='./model/checkpoints/', help='Checkpoint path.')
         self._parser.add_argument('--ckpt_save', type=str, default='ph_ckpt_', help='Checkpoint name to save.')
-        self._parser.add_argument('--ckpt_load', type=str, default='ph_ckpt_plane_810.pt', help='Checkpoint name to load. (default:None)')
+        self._parser.add_argument('--ckpt_load', type=str, default=None, help='Checkpoint name to load. (default:None)')
         self._parser.add_argument('--visdom_port', type=int, default=8097, help='Visdom port number. (default:8097)')
 
         # Evaluation arguments
